@@ -35,3 +35,9 @@ jobs:
           branch: gh-pages # The branch the action should deploy to.
           folder: www # The folder the action should deploy.
           clean: true
+
+# cpina/github-action-push-to-another-repository: github Action to push files into another Github repository
+# https://github.com/cpina/github-action-push-to-another-repository
+
+# git - How to push to another repository in github actions? - Stack Overflow
+# https://stackoverflow.com/questions/64374179/how-to-push-to-another-repository-in-github-actions
