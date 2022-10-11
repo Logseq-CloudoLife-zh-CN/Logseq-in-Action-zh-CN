@@ -27,6 +27,8 @@ jobs:
         uses: pengx17/logseq-publish@v0.1
       - name: add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      - name: add a CNAME file
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.9
         with:
