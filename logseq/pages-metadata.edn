@@ -52,6 +52,9 @@
  {:block/name "logseq blog",
   :block/created-at 1665479938998,
   :block/updated-at 1665479938998}
+ {:block/name "logseq in action",
+  :block/created-at 1665494721018,
+  :block/updated-at 1665494721018}
  {:block/name "logseq newsletter",
   :block/created-at 1665479937978,
   :block/updated-at 1665479937978}
@@ -61,6 +64,12 @@
  {:block/name "logseq whiteboard",
   :block/created-at 1665479938735,
   :block/updated-at 1665479938735}
+ {:block/name "logseq 实战",
+  :block/created-at 1665494731338,
+  :block/updated-at 1665494731338}
+ {:block/name "logseq 实战 (logseq in action)",
+  :block/created-at 1665494711179,
+  :block/updated-at 1665494711179}
  {:block/name "logseq/namespace",
   :block/created-at 1665479938740,
   :block/updated-at 1665479938740}
