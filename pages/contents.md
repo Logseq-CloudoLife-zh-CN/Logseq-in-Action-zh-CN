@@ -2,4 +2,5 @@
 - [[Logseq Newsletter]]
 	- [[Newsletter #11：如何在 Logseq 中管理任务和项目]]
 	- [[Newsletter #12：如何构建 Logseq Graph 以获得洞察力]]
+	- [[Logseq/Newsletter #10：如何使用 Logseq 进行研究]]
 -
