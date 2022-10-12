@@ -1,4 +1,7 @@
 -
+- [[Logseq Blog]]
+	- [[Logseq/欢迎来到 Logseqers 之家！]]
+	-
 - [[Logseq Newsletter]]
 	- [[Logseq/Newsletter #12：如何构建 Logseq Graph 以获得洞察力]]
 	- [[Logseq/Newsletter #11：如何在 Logseq 中管理任务和项目]]
