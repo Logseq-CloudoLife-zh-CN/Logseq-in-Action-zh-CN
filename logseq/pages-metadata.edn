@@ -1,4 +1,7 @@
-[{:block/name "11",
+[{:block/name "10",
+  :block/created-at 1665549028121,
+  :block/updated-at 1665549028121}
+ {:block/name "11",
   :block/created-at 1665479938112,
   :block/updated-at 1665479938112}
  {:block/name "12",
@@ -27,7 +30,7 @@
   :block/updated-at 1665480496019}
  {:block/name "contents",
   :block/created-at 1665480496019,
-  :block/updated-at 1665480496019}
+  :block/updated-at 1665549413475}
  {:block/name "doing",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
@@ -73,6 +76,16 @@
  {:block/name "logseq/namespace",
   :block/created-at 1665479938740,
   :block/updated-at 1665479938740}
+ {:block/name "logseq/newsletter #10: how to use logseq for research",
+  :block/created-at 1665549028163,
+  :block/updated-at 1665549028163}
+ {:block/name
+  "logseq/newsletter #10: how to use logseq for research/zh-cn",
+  :block/created-at 1665549028159,
+  :block/updated-at 1665549091721}
+ {:block/name "logseq/newsletter #10：如何使用 logseq 进行研究",
+  :block/created-at 1665549028116,
+  :block/updated-at 1665549028116}
  {:block/name
   "logseq/newsletter #11: how to manage tasks and projects in logseq",
   :block/created-at 1665479938114,
@@ -80,7 +93,10 @@
  {:block/name
   "logseq/newsletter #11: how to manage tasks and projects in logseq/zh-cn",
   :block/created-at 1665479939003,
-  :block/updated-at 1665479939003}
+  :block/updated-at 1665549353958}
+ {:block/name "logseq/newsletter #11：如何在 logseq 中管理任务和项目",
+  :block/created-at 1665549132297,
+  :block/updated-at 1665549132297}
  {:block/name
   "logseq/newsletter #12: how to structure your logseq graph for insight",
   :block/created-at 1665479938751,
@@ -88,13 +104,10 @@
  {:block/name
   "logseq/newsletter #12: how to structure your logseq graph for insight/zh-cn",
   :block/created-at 1665479938749,
-  :block/updated-at 1665479938749}
- {:block/name "newsletter #11：如何在 logseq 中管理任务和项目",
-  :block/created-at 1665479937980,
-  :block/updated-at 1665479937980}
- {:block/name "newsletter #12：如何构建 logseq graph 以获得洞察力",
-  :block/created-at 1665479937981,
-  :block/updated-at 1665479937981}
+  :block/updated-at 1665549384052}
+ {:block/name "logseq/newsletter #12：如何构建 logseq graph 以获得洞察力",
+  :block/created-at 1665549384050,
+  :block/updated-at 1665549384050}
  {:block/name "now",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
@@ -103,7 +116,7 @@
   :block/updated-at 1665494699528}
  {:block/name "oct 12th, 2022",
   :block/created-at 1665528382004,
-  :block/updated-at 1665528382004}
+  :block/updated-at 1665549063985}
  {:block/name "open collective",
   :block/created-at 1665479938732,
   :block/updated-at 1665479938732}
@@ -126,8 +139,8 @@
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
  {:block/name "任务",
-  :block/created-at 1665479938999,
-  :block/updated-at 1665479938999}
+  :block/created-at 1665549207514,
+  :block/updated-at 1665549207514}
  {:block/name "项目",
-  :block/created-at 1665479939000, 
-  :block/updated-at 1665479939000}]
+  :block/created-at 1665549207516, 
+  :block/updated-at 1665549207516}]
