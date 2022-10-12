@@ -1,5 +1,3 @@
-public:: true
-alias:: [[Newsletter #12：如何构建 Logseq Graph 以获得洞察力]]
 title:: Logseq/Newsletter #12: How to Structure Your Logseq Graph for Insight/zh-cn
 url:: https://blog.logseq.com/newsletter-12-how-to-structure-your-logseq-graph-for-insight/
 

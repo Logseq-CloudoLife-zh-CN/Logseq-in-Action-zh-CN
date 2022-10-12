@@ -1,5 +1,3 @@
-public:: true
-alias:: [[Logseq/Newsletter #11：如何在 Logseq 中管理任务和项目]]
 tags:: [[Logseq]] [[Logseq Newsletter]] [[Logseq Blog]] [[任务]] [[项目]]
 title:: Logseq/Newsletter #11: How to Manage Tasks and Projects in Logseq/zh-cn
 
