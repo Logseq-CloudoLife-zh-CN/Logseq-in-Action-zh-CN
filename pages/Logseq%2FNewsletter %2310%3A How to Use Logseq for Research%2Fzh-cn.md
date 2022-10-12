@@ -1,4 +1,4 @@
-tags:: [[Logseq]] [[Logseq Blog]] [[Logsew New]] 
+tags:: [[Logseq]] [[Logseq Blog]] [[Logseq Newsletter]] 
 alias:: [[Logseq/Newsletter #10：如何使用 Logseq 进行研究]]
 title:: Logseq/Newsletter #10: How to Use Logseq for Research/zh-cn
 
