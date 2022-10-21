@@ -1,7 +1,7 @@
 alias:: [[Newsletter #13：今年夏天我们一直在忙于建设！]]
-languages:: [[Chinese (Simplified)]] 
+languages:: [[Chinese (Simplified)]]
 tags:: [[Logseq]] [[Logseq Blog]] [[Logseq Newsletter]] [[Newsletter #13: We've Been Busy Building This Summer!]]
-title:: Logseq.Newsletter #13: We've Been Busy Building This Summer!/zh-CN
+title:: Logseq/Newsletter #13: We've Been Busy Building This Summer!/zh-CN
 
 - # Newsletter \#13：今年夏天我们一直在忙于建设！
 	- ![ Newsletter  #13：今年夏天我们一直在忙于建设！](https://blog.logseq.com/content/images/size/w960/2022/09/building-featured.png)
