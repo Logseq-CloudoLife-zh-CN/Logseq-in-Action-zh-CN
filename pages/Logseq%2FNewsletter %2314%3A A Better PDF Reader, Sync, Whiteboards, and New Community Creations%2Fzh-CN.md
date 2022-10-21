@@ -1,6 +1,7 @@
 alias:: [[Newsletter #14：更好的 PDF 阅读器、同步、白板和新的社区创作]]
-tags:: [[Logseq]] [[Logseq Blog]] [[Logseq Newsletter]] [[Newsletter #14: A Better PDF Reader, Sync, Whiteboards, and New Community Creations]]
 languages:: [[Chinese (Simplified)]]
+tags:: [[Logseq]] [[Logseq Blog]] [[Logseq Newsletter]] [[Newsletter #14: A Better PDF Reader, Sync, Whiteboards, and New Community Creations]]
+title:: Logseq/Newsletter #14: A Better PDF Reader, Sync, Whiteboards, and New Community Creations/zh-CN
 
 -
 - 2022 年 10 月 19 日  4 分钟阅读 [Newsletter](https://blog.logseq.com/tag/newsletters/)[](https://blog.logseq.com/tag/newsletters/)
