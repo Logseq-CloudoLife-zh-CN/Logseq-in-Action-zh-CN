@@ -1,0 +1,64 @@
+tags:: [[Logseq]] [[Logseq Blog]] [[Logseq Newsletter]] [[Newsletter #10: How to Use Logseq for Research]]
+alias:: [[Newsletter #10：如何使用 Logseq 进行研究]]
+title:: Logseq/Newsletter #10: How to Use Logseq for Research/zh-CN
+languages:: [[Chinese (Simplified)]]
+
+-
+- # Newsletter \#10：如何使用 Logseq 进行研究
+	- ![Newsletter #10：如何使用 Logseq 进行研究](https://blog.logseq.com/content/images/size/w960/2022/07/logseq-for-research-featured.png)
+	- 星期二快乐，Logseqers 同胞！
+	- 本周的 Newsletter 适用于你们中的所有研究人员。无论您将 Logseq 用作学术、专业人士，还是只是一个好奇的人，您都会在此版本中找到一些有用的东西。
+	- 如果您在学校并想使用 Logseq 来管理您的课程或其他学习项目，请考虑在今年夏天加入 Query Learning Sprint。[您可以在 Logseq 论坛上阅读有关该程序的所有内容。](https://discuss.logseq.com/t/sprint-with-us-and-learn-everything-about-queries-this-summer/8617)
+	- 现在，让我们深入研究有助于简化研究过程的资源。
+	- ## 如何使用 Logseq 设计和运行个人学习项目
+		- 我将通过分享我如何使用 Logseq 来运行我的学习项目来启动[查询学习 Sprint 。](https://discuss.logseq.com/t/sprint-with-us-and-learn-everything-about-queries-this-summer/8617)
+		- 如果你想充分利用这个学习冲刺，我建议你先阅读[准备材料](https://discuss.logseq.com/t/how-to-design-and-run-personal-learning-projects/8700)。我还建议您[首先创建一个学习日志](https://discuss.logseq.com/t/sprint-with-us-and-learn-everything-about-queries-this-summer/8617#how-to-participate-in-the-learning-sprint-8)，在其中分享您的进步和奋斗。在明天的课程中，我将现场写出我的学习计划。
+		- ​完整的会议大纲如下：
+			- 为什么你应该有一个学习系统。
+			- ​学习系统所需要的。
+			- ​如何查找和管理资源。
+			- ​如何管理时间。
+			- ​如何管理注意力。
+			- ​如何记笔记。
+			- ​如何制作抽认卡。
+			- ​如何挑战自己。
+			- **项目：**一个个人学习计划，您在其中选择了资源，决定了记笔记的方法，并阻止了学习和构建的时间。
+		- ⏰**[点击这里注册并在会议开始时收到提醒。](https://lu.ma/lls1wed)**
+		- 🧱**[点击这里获取准备会议的材料。](https://discuss.logseq.com/t/how-to-design-and-run-personal-learning-projects/8700)**
+		- _该会话将被记录并发布在_[_Logseq 的 YouTube 频道上_](https://youtube.com/c/Logseq)_。_
+	- ## 新插件和主题
+		- 本周，两个新插件登陆市场。如果您想使用 Logseq 来管理您的引文，那么一个将非常有价值。在Logseq中的`...`> `Plugins` > `Marketplace` 中搜索它们。
+		- ❞ Logseq **[Citations](https://github.com/sawhney17/logseq-citation-manager)**
+			- [Aryan Sawhney](https://twitter.com/aryansawhney17)创建了一个插件，可以帮助您管理 Logseq 中的引文。它支持以页面和链接的形式嵌入和链接到 Bibtex 项目。它还支持 Zotero、Paperpile 和其他支持`.bib`引用的应用程序。[请参阅此 gif 以获取演示。](https://cdn.discordapp.com/attachments/896368413243494430/995272125181075496/Screen_Recording_2022-07-09_at_12.49.54_PM.gif)
+		- 🏷**[自动 URL 标题](https://github.com/0x7b1/logseq-plugin-automatic-url-title)**
+			- 这个插件会自动获取网站的标题并从中创建一个 Markdown 链接。此外，它还显示了 Logseq 中网页的图标。
+			- ![](https://blog.logseq.com/content/images/2022/07/automatic-url-demo.gif)
+	- ## 向社区学习
+		- 在 Logseq，我们坚信“知识工作的 game film”。在其基本形式中，game film 是某人表演技能的视频记录。而且，带有屏幕截图和GIF的演练可以被视为知识工作的游戏电影。
+		- 说到用 Logseq 做研究，已经有很多 game film 了。这些是我们最喜欢的一些资源。您是否记录了自己的知识工作流程？请回复本 Newsletter 并与我们分享。
+		- 📄[**在 Logseq 中开始使用 PDF 注释**](https://www.youtube.com/watch?v=OOZA7APwZy4)
+			- 如果您从未在 Logseq 中对 PDF 进行注释但想开始，[Ed Nico](https://twitter.com/TechWithEd)的这个视频是一个很好的起点。它向您展示了如何将 PDF 添加到 Logseq、对其进行注释以及所有内容都存储在文件系统中的位置。
+			- <iframe width="200" height="113" src="https://www.youtube.com/embed/OOZA7APwZy4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="Logseq PDF Annotation - 示例演练，如何突出显示文件并培养第二个大脑" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;" enablejsapi="true" id="widget2"></iframe>
+		- 🏗**[使用 Logseq PDF 注释和构建研究工作流程](https://youtu.be/YO02bF1M43E)**
+			- [Dario da Silva](https://twitter.com/OneStuttering)和他的朋友 Leigh 展示了他们如何设计和构建用于研究的 Logseq 工作流程。您将看到他们如何在 Logseq 中注释 PDF，然后构建他们的注释以回答研究问题。
+			- <iframe width="200" height="113" src="https://www.youtube.com/embed/YO02bF1M43E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="使用 Logseq PDF 注释并构建研究工作流程" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;" enablejsapi="true" id="widget4"></iframe>
+		- 📝 [**Zettelkasten：如何使用 Logseq 进行研究和编写**](https://www.youtube.com/watch?v=OHy56d_jHxg)
+			- 许多资源告诉您如何在Logseq 中_启动_[Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)。但是实际研究和写作过程的例子呢？在这段视频中，[Alex Qwxlea](https://twitter.com/QwxleaA)展示了他如何使用 Logseq 的 PDF 阅读器进行研究，然后通过为他的 Zettelkasten 编写条目来完善他的想法。
+			- <iframe width="200" height="113" src="https://www.youtube.com/embed/OHy56d_jHxg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="永久笔记：探索学生复制粘贴决策和处理的差异" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;" enablejsapi="true" id="widget6"></iframe>
+		- 🔎[**如何使用 Logseq 进行研究 ft. Cara Antonaccio**](https://www.youtube.com/watch?v=PN6tjeQfxRc)
+			- 三月，我们邀请了博士。候选人[Cara Antonaccio](https://twitter.com/caraantonaccio)展示了她使用 Logseq 进行的研究和写作工作流程。很可能，您已经（重新）观看了它 - 但如果您没有，您绝对应该。另外，我们不得不在一篇关于使用 Logseq 进行研究的Newsletter中提到 Cara。
+			- <iframe width="200" height="113" src="https://www.youtube.com/embed/PN6tjeQfxRc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="如何使用 Logseq 进行研究 ft. Cara Antonaccio" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;" enablejsapi="true" id="widget8"></iframe>
+		- 🏷**[使用 Zotero 壮举的高级参考管理。Jay Colbert](https://www.youtube.com/watch?v=CYc1SW4wjyk)**
+			- 虽然您可以使用 Logseq 来管理您的引文/参考文献，但这并不意味着您必须（或应该）。在对达里奥·达席尔瓦的采访中，[杰伊·科尔伯特](https://twitter.com/_WildeAtHeart)展示了他如何使用 Zotero 来管理他的所有引用。如果您以前没有使用过 Zotero，这是一个很好的介绍。
+			- <iframe width="200" height="113" src="https://www.youtube.com/embed/CYc1SW4wjyk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="Zotero 的高级参考管理 - 壮举。 杰伊科尔伯特" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;" enablejsapi="true" id="widget10"></iframe>
+		- 📖 Logseq[**中的书评示例**](https://briansunter.com/graph/#/page/travels%20with%20charley)
+			- 并非每个人都需要精心设计的研究过程。如果您只是想从阅读的内容中记住更多信息，[B​​rian Sunter](https://twitter.com/Bsunter)的这本书模板可能就是您所需要的。
+			- <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 921px; display: block; flex-grow: 1;" title="推特推文" src="https://platform.twitter.com/embed/Tweet.html?creatorScreenName=rroudt&amp;dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19jaGluX3BpbGxzXzE0NzQxIjp7ImJ1Y2tldCI6ImNvbG9yX2ljb25zIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2V4cGVyaW1lbnRzX2Nvb2tpZV9leHBpcmF0aW9uIjp7ImJ1Y2tldCI6MTIwOTYwMCwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1544675030486769664&amp;lang=en&amp;origin=https%3A%2F%2Fblog.logseq.com%2Fnewsletter-10-how-to-use-logseq-for-research%2F&amp;sessionId=764e39981ab81d1cb432a77cdb4e0ed6b8b87e09&amp;siteScreenName=logseq&amp;theme=light&amp;widgetsVersion=1c23387b1f70c%3A1664388199485&amp;width=550px" data-tweet-id="1544675030486769664"></iframe>
+		- 📺[**如何在 Logseq 中从 YouTube 视频中记笔记**](https://twitter.com/rroudt/status/1544764476003581952?s=20&t=PbifEAQpRv4Wwx3pwhRfwg)
+			- 您知道 Logseq 可以轻松地为 YouTube 视频添加时间戳吗？当您想从视频中获取知识并进行处理或稍后学习时，这是理想的选择。
+			- 在 Logseq 中播放视频时，只需敲击键盘组合`Cmd-Shift-y`（在 macOS 上）或`Ctrl-Shift-y`（在 Windows/Linux 上）即可创建可点击的时间戳。
+			- 这是我如何从视频中记笔记、通过链接轻松重新访问它们并将它们变成抽认卡的示例：
+			- <iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 1032px; display: block; flex-grow: 1;" title="推特推文" src="https://platform.twitter.com/embed/Tweet.html?creatorScreenName=rroudt&amp;dnt=false&amp;embedId=twitter-widget-1&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19jaGluX3BpbGxzXzE0NzQxIjp7ImJ1Y2tldCI6ImNvbG9yX2ljb25zIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2V4cGVyaW1lbnRzX2Nvb2tpZV9leHBpcmF0aW9uIjp7ImJ1Y2tldCI6MTIwOTYwMCwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1544764476003581952&amp;lang=en&amp;origin=https%3A%2F%2Fblog.logseq.com%2Fnewsletter-10-how-to-use-logseq-for-research%2F&amp;sessionId=764e39981ab81d1cb432a77cdb4e0ed6b8b87e09&amp;siteScreenName=logseq&amp;theme=light&amp;widgetsVersion=1c23387b1f70c%3A1664388199485&amp;width=550px" data-tweet-id="1544764476003581952"></iframe>
+- ---
+	- ## 原文链接
+		- [Newsletter #10: How to Use Logseq for Research - https://blog.logseq.com/newsletter-10-how-to-use-logseq-for-research/](https://blog.logseq.com/newsletter-10-how-to-use-logseq-for-research/)

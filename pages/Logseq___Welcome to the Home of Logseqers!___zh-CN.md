@@ -1,5 +1,5 @@
-alias:: [[Logseq/欢迎来到 Logseqers 之家！]]
-title:: Logseq/Welcome to the Home of Logseqers!
+alias:: [[欢迎来到 Logseqers 之家！]] 
+title:: Logseq/Welcome to the Home of Logseqers!/zh-CN
 tags:: [[Logseq]] [[Logseq Blog]]
 
 -
@@ -23,5 +23,5 @@ tags:: [[Logseq]] [[Logseq Blog]]
 		- 5月9日，星期一，我们将发送第一个官方的 Logseq 新闻简报。它将是来自 Logseq 生态系统的有用内容的汇总。[单击此处注册每周的新闻简报 - https://blog.logseq.com/#/portal/](https://blog.logseq.com/#/portal/)。
 		- 如果您想为新闻简报提供策划的内容，请[通过此表单向我们发送您的建议 - https://blog.logseq.com/suggest-resource](https://blog.logseq.com/suggest-resource)。是的，请随时建议您自己的内容！
 - ---
-- # 原文链接
+- ## 原文链接
 	- [Welcome to the Home of Logseqers! - https://blog.logseq.com/welcome/](https://blog.logseq.com/welcome/)

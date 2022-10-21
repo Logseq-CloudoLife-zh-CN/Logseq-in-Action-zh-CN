@@ -1,0 +1,72 @@
+alias:: [[Newsletter #14：更好的 PDF 阅读器、同步、白板和新的社区创作]]
+tags:: [[Logseq]] [[Logseq Blog]] [[Logseq Newsletter]] [[Newsletter #14: A Better PDF Reader, Sync, Whiteboards, and New Community Creations]]
+languages:: [[Chinese (Simplified)]]
+
+-
+- 2022 年 10 月 19 日  4 分钟阅读 [Newsletter](https://blog.logseq.com/tag/newsletters/)[](https://blog.logseq.com/tag/newsletters/)
+- # Newsletter \#14：更好的 PDF 阅读器、同步、白板和新的社区创作
+	- ![时事通讯 #14：更好的 PDF 阅读器、同步、白板和新的社区创作](https://blog.logseq.com/content/images/size/w960/2022/10/logseq-newsletter-14-featured.png)
+	- 嗨 Logseqers！
+	- 本月的 Newsletter 充满了激动人心的公告和新功能。与社区一起，我们一直在完善一些核心功能并开发新功能，这肯定会让您成为更好的思考者和学习者。
+	- 如果您对我们如何不断改进有任何建议，请在[Logseq 论坛](https://discuss.logseq.com/)或[Discord 上的官方 Logseq 服务器](https://discord.gg/5KwWf8QnQU)中告诉我们。
+	- 现在，让我们看看我们一直在构建什么！
+	- ## 0.8.9 中的新功能。
+		- 今天我们发布了[0.8.9 版本。Logseq 桌面和 Android 的](https://github.com/logseq/logseq/releases/tag/0.8.9)。新的 iOS 版本即将登陆 App Store。
+		- 我们添加了许多新功能并改进了一些现有功能。这些是我们最喜欢的变化：
+		- ### 📑 **PDF 阅读器改进**
+			- [[PDF Reader]]
+			- Logseq 最受欢迎的功能之一变得更好了！
+			- 我们为 PDF 添加了**全文搜索**，这是最受欢迎的功能之一。
+			- 接下来，我们添加了一个**高亮显示窗格**，您可以在其中概览 PDF 中的所有高亮显示。
+			- 最后但并非最不重要的一点是，高亮的颜色也变得更有意义，因为**高亮引用现在与高亮颜色匹配**。请看下面的演示：
+			- <video src="https://cdn.loom.com/sessions/thumbnails/fa7ad4bb1dcd4d21b8f76e3e03c19d7f-00001.mp4" playsinline="" loop="" autoplay="" class="css-1dd3ex7"></video>
+		- ### 🎨**块高亮**
+			- [[Block Highlight]]
+			- 不只是 PDF 阅读器有一点点高亮颜色；您现在还可以为各个块添加一抹色彩。右键单击一个块的开头小黑点，您可以选择用什么颜色高亮突出它：
+			- <video src="https://blog.logseq.com/content/media/2022/10/block-highlight-demo.webm" poster="https://img.spacergif.org/v1/1280x720/0a/spacer.png" width="1280" height="720" playsinline="" preload="metadata" style="background: transparent url('https://blog.logseq.com/content/images/2022/10/media-thumbnail-ember287.jpg') 50% 50% / cover no-repeat;"></video>
+		- ### 🔌**持久插件列表**
+			- 更好的插件管理是另一个受欢迎的要求。我们中的许多人都在多个桌面上工作，并且必须维护两个或多个插件列表很快就会变得陈旧。
+			- 这就是我们添加该`plugins.edn`文件的原因，该文件会保存您的插件列表，并可以轻松地与您的设备或 Logseq 社区的成员共享它们。[阅读我们的文档如何使用 plugins.edn。](https://docs.logseq.com/#/page/plugins.edn)
+	- ## 同步状态
+		- [[Logseq Sync]]
+		- 在我们[之前的时事通讯](https://blog.logseq.com/newsletter-13-weve-been-busy-building-this-summer/)中，我们提到我们将很快向我们的支持者开放同步服务。不幸的是，alpha 测试阶段花费的时间比预期的要长。似乎巴贝奇定律仍然适用：_“没有计算机能按时建成。”_
+		- 目前，我们将同步访问限制在[赞助商层](https://opencollective.com/logseq/contribute/sponsors-21163)，因为我们仍然需要进行大量故障排除。这意味着我们无法通过一次添加更多 Sync 用户来进行扩展，因为这会阻塞我们的支持渠道。
+		- 如果您真的迫不及待，请随时[成为赞助商](https://opencollective.com/logseq/contribute/sponsors-21163)。请务必意识到您将使用 alpha 软件。虽然几个月来我们一直在使用 Sync 几乎没有问题，但有时我们会遇到需要时间和注意力的问题。
+		- > 💡 对于那些捐赠超过 15 美元但无法访问 Sync 的人来说，请注意：我们的**alpha 功能适用于我们的[开放集体_赞助者层_](https://opencollective.com/logseq/contribute/sponsors-21163)**。捐赠 15 美元不会自动进入此级别；您必须明确选择它。通过成为赞助商，您承诺_每月_捐赠 15 美元，直到您取消定期捐赠。
+		- 如果您可以等待，请知道我们正在努力向更多的财务支持者开放 Logseq Sync。同时，这里是 Sync 的样子（状态指示器和页面历史）：
+		- ![](https://blog.logseq.com/content/images/2022/10/image-3.png)
+		- ![](https://blog.logseq.com/content/images/2022/10/image-1.png)
+	- ## 白板现在可供赞助商使用
+		- [[Whiteboard]]
+		- 如果您是赞助商，您还可以从今天开始访问白板功能的 Alpha 版。基于[tldraw](https://github.com/tldraw/tldraw)，白板让您可以在无限的画布上使用您的轮廓并绘制您喜欢的任何形状。
+		- 您可以通过 `...` > `Settings`>激活白板功能`Features`（仅适用于[**_赞助商层_**！](https://opencollective.com/logseq/contribute/sponsors-21163)）：
+		- ![](https://blog.logseq.com/content/images/2022/10/alpha-whiteboards.png){:height 428, :width 716}
+		- 如果您错过了白板功能的内容，这里有一个早期演示：
+		- <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 657px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/Tweet.html?creatorScreenName=rroudt&amp;dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19jaGluX3BpbGxzXzE0NzQxIjp7ImJ1Y2tldCI6ImNvbG9yX2ljb25zIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2V4cGVyaW1lbnRzX2Nvb2tpZV9leHBpcmF0aW9uIjp7ImJ1Y2tldCI6MTIwOTYwMCwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1552172906146398208&amp;lang=en&amp;origin=https%3A%2F%2Fblog.logseq.com%2Fnewsletter-14-a-better-pdf-reader-sync-whiteboards-and-new-community-creations%2F&amp;sessionId=b93ab1c670aeb85658095999b6a4a4c6cc330276&amp;siteScreenName=logseq&amp;theme=light&amp;widgetsVersion=1c23387b1f70c%3A1664388199485&amp;width=550px" data-tweet-id="1552172906146398208"></iframe>
+	- ## 新插件
+		- [[Logseq Plugin]]
+		- 在过去的几周里， [Yurii Piskun](https://twitter.com/yoyurec)手中的一些有用的插件在市场上掉了下来。最初是他（美丽的）Solarized 主题的一部分，您现在可以将此功能与任何主题一起使用。  在 Logseq中的`...`  >   `Plugins`  >   `Marketplace`->中搜索它们  。`Plugins`
+		- ### 🎨**[很棒的 UI](https://github.com/yoyurec/logseq-awesome-ui)**
+			- 这个插件打磨了 Logseq 的一些粗糙的边缘，比如搜索面板、查询，甚至是流行的选项卡插件。
+		- ### 🪧 [**Sticky Headers**](https://github.com/yoyurec/logseq-sticky-headers)
+			- 使用此插件，`H1-H5`当页面滚动时，标题将“粘”在顶部，始终向您显示您所在的部分。
+		- ### 🔗 [**Awesome Links**](https://github.com/yoyurec/logseq-awesome-links)
+			- 想看外链的图标和内链的图标吗？这个插件就是这样做的！
+		- ### ✍️ [**Logseq Pen**](https://github.com/vipzhicheng/logseq-plugin-pen)
+			- 当我们忙于完善我们的白板功能时，[Richard Yu](https://twitter.com/vipzhicheng)已经创建了这个简洁的插件，可以让您在 Logseq 中注释您的笔记。
+			- ![](https://blog.logseq.com/content/images/2022/10/logseq-pen-screencast_1664738577476_0.gif)
+	- ## 新主题
+		- [[Logseq Theme]]
+		- 你厌倦了标准的 Logseq 颜色吗？查看市场上出现的精美新主题。在 Logseq中的`...`  >   `Plugins`  >   `Marketplace`-> `Themes` 中搜索它们。
+		- ### [**Atmos**](https://github.com/Mat4m0/logseq-atmos-theme)
+			- 使用美丽简约的 Atmos 主题美化您的标题。
+			- ![](https://blog.logseq.com/content/images/2022/10/atmos_theme_1664738958386_0.png)
+		- ### **[Arc](https://github.com/andyburris/logseq-arc-theme)**
+			- 另一个华丽的简约主题是受 Arc Browser 启发的主题。
+			- ![](https://blog.logseq.com/content/images/2022/10/arc-theme_1664738965953_0.png)
+		- ### [**Flow**](https://github.com/nmartin84/logseq-flow)
+			- 从具有极简 Flow 主题的众多调色板中选择一种。
+			- ![](https://blog.logseq.com/content/images/2022/10/flow-theme_1664738977160_0.gif)
+- ---
+	- ## 原文链接
+		- [Newsletter #14: A Better PDF Reader, Sync, Whiteboards, and New Community Creations - https://blog.logseq.com/newsletter-14-a-better-pdf-reader-sync-whiteboards-and-new-community-creations]

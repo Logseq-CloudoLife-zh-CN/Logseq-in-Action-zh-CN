@@ -7,9 +7,6 @@
  {:block/name "12",
   :block/created-at 1665479938745,
   :block/updated-at 1665479938745}
- {:block/name "14",
-  :block/created-at 1666323984965,
-  :block/updated-at 1666323984965}
  {:block/name "a",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
@@ -19,9 +16,6 @@
  {:block/name "backer",
   :block/created-at 1665479938734,
   :block/updated-at 1665479938734}
- {:block/name "block highlight",
-  :block/created-at 1666323984955,
-  :block/updated-at 1666323984955}
  {:block/name "c",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
@@ -34,9 +28,6 @@
  {:block/name "card",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
- {:block/name "chinese (simplified)",
-  :block/created-at 1666323983385,
-  :block/updated-at 1666323983385}
  {:block/name "contents",
   :block/created-at 1665480496019,
   :block/updated-at 1665583476253}
@@ -55,9 +46,6 @@
  {:block/name "in-progress",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
- {:block/name "languages",
-  :block/created-at 1666323983387,
-  :block/updated-at 1666323983387}
  {:block/name "later",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
@@ -73,15 +61,9 @@
  {:block/name "logseq newsletter",
   :block/created-at 1665479937978,
   :block/updated-at 1665479937978}
- {:block/name "logseq plugin",
-  :block/created-at 1666323984960,
-  :block/updated-at 1666323984960}
  {:block/name "logseq sync",
   :block/created-at 1665479938732,
   :block/updated-at 1665479938732}
- {:block/name "logseq theme",
-  :block/created-at 1666323984962,
-  :block/updated-at 1666323984962}
  {:block/name "logseq whiteboard",
   :block/created-at 1665479938735,
   :block/updated-at 1665479938735}
@@ -91,14 +73,6 @@
  {:block/name "logseq 实战 (logseq in action)",
   :block/created-at 1665494711179,
   :block/updated-at 1665494711179}
- {:block/name
-  "logseq.newsletter #13: we've been busy building this summer!",
-  :block/created-at 1666323984557,
-  :block/updated-at 1666323984557}
- {:block/name
-  "logseq.newsletter #13: we've been busy building this summer!/zh-cn",
-  :block/created-at 1666323984556,
-  :block/updated-at 1666323984556}
  {:block/name "logseq/namespace",
   :block/created-at 1665479938740,
   :block/updated-at 1665479938740}
@@ -137,49 +111,15 @@
  {:block/name "logseq/welcome to the home of logseqers!",
   :block/created-at 1665583425011,
   :block/updated-at 1665583560342}
- {:block/name "logseq/welcome to the home of logseqers!/zh-cn",
-  :block/created-at 1666323985124,
-  :block/updated-at 1666323985124}
  {:block/name "logseq/欢迎来到 logseqers 之家！",
   :block/created-at 1665583425009,
   :block/updated-at 1665583425009}
- {:block/name
-  "logseq___newsletter #14: a better pdf reader, sync, whiteboards, and new community creations___zh-cn",
-  :block/created-at 1666323984977,
-  :block/updated-at 1666323984977}
- {:block/name "newsletter #10: how to use logseq for research",
-  :block/created-at 1666323983381,
-  :block/updated-at 1666323983381}
- {:block/name "newsletter #10：如何使用 logseq 进行研究",
-  :block/created-at 1666323983383,
-  :block/updated-at 1666323983383}
- {:block/name
-  "newsletter #11: how to manage tasks and projects in logseq",
-  :block/created-at 1666323983603,
-  :block/updated-at 1666323983603}
  {:block/name "newsletter #11：如何在 logseq 中管理任务和项目",
-  :block/created-at 1666323983597,
-  :block/updated-at 1666323983597}
- {:block/name
-  "newsletter #12: how to structure your logseq graph for insight",
-  :block/created-at 1666323984352,
-  :block/updated-at 1666323984352}
+  :block/created-at 1665479937980,
+  :block/updated-at 1665479937980}
  {:block/name "newsletter #12：如何构建 logseq graph 以获得洞察力",
-  :block/created-at 1666323984346,
-  :block/updated-at 1666323984346}
- {:block/name "newsletter #13: we've been busy building this summer!",
-  :block/created-at 1666323984553,
-  :block/updated-at 1666323984553}
- {:block/name "newsletter #13：今年夏天我们一直在忙于建设！",
-  :block/created-at 1666323984547,
-  :block/updated-at 1666323984547}
- {:block/name
-  "newsletter #14: a better pdf reader, sync, whiteboards, and new community creations",
-  :block/created-at 1666323984972,
-  :block/updated-at 1666323984972}
- {:block/name "newsletter #14：更好的 pdf 阅读器、同步、白板和新的社区创作",
-  :block/created-at 1666323984967,
-  :block/updated-at 1666323984967}
+  :block/created-at 1665479937981,
+  :block/updated-at 1665479937981}
  {:block/name "now",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
@@ -189,30 +129,15 @@
  {:block/name "oct 12th, 2022",
   :block/created-at 1665528382004,
   :block/updated-at 1665549063985}
- {:block/name "oct 13th, 2022",
-  :block/created-at 1665623107223,
-  :block/updated-at 1665623107223}
- {:block/name "oct 21st, 2022",
-  :block/created-at 1666323985258,
-  :block/updated-at 1666323985258}
  {:block/name "open collective",
   :block/created-at 1665479938732,
   :block/updated-at 1665479938732}
- {:block/name "pdf reader",
-  :block/created-at 1666323984951,
-  :block/updated-at 1666323984951}
- {:block/name "project",
-  :block/created-at 1666323983608,
-  :block/updated-at 1666323983608}
  {:block/name "simpread",
   :block/created-at 1665479938738,
   :block/updated-at 1665479938738}
  {:block/name "sponsor",
   :block/created-at 1665479938733,
   :block/updated-at 1665479938733}
- {:block/name "task",
-  :block/created-at 1666323983607,
-  :block/updated-at 1666323983607}
  {:block/name "todo",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
@@ -225,18 +150,12 @@
  {:block/name "waiting",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
- {:block/name "whiteboard",
-  :block/created-at 1666323984959,
-  :block/updated-at 1666323984959}
  {:block/name "任务",
   :block/created-at 1665549207514,
   :block/updated-at 1665549207514}
  {:block/name "关于",
   :block/created-at 1665576907286,
   :block/updated-at 1665576907286}
- {:block/name "欢迎来到 logseqers 之家！",
-  :block/created-at 1666323985122,
-  :block/updated-at 1666323985122}
  {:block/name "项目",
   :block/created-at 1665549207516, 
   :block/updated-at 1665549207516}]

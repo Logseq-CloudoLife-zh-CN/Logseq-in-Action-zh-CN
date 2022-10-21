@@ -1,0 +1,61 @@
+alias:: [[Newsletter #12：如何构建 Logseq Graph 以获得洞察力]]
+languages:: Chinese (Simplified)
+tags:: [[Logseq]] [[Logseq Blog]] [[Logseq Newsletter]] [[Newsletter #12: How to Structure Your Logseq Graph for Insight]]
+title:: Logseq/Newsletter #12: How to Structure Your Logseq Graph for Insight/zh-CN
+
+-
+- # Newsletter \#12：如何构建 Logseq Graph 以获得洞察力
+	- ![Newsletter #12：如何构建 Logseq Graph 以获得洞察力](https://blog.logseq.com/content/images/size/w960/2022/08/newsletter-structured-graph-featured.png)
+	- 嗨 Logseqers！
+	- 经过短暂的休息后，我们带着满满的资源回来了，以帮助您从 Logseq 中获得更多信息。
+	- 本周，您将抢先了解即将推出的同步和白板功能、新插件和主题的概述，并了解有关构建 Graph 的所有知识。
+	- 让我们深入挖掘！
+	- ## Logseq 的新功能
+		- 我们升级到了 0.7.9 版，最近的几次更新为 Logseq 添加了更多润色。[从 Logseq.com 下载最新版本](https://logseq.com/)或在应用程序 ( `...`> `Settings`) 内查看以进行更新。
+		- 除了修复之外，我们还对`property::`系统进行了大修。这应该更容易维护您的个人元数据系统。
+			- 从现在开始，每当您键入时，`::`您都会看到以前使用的属性键的列表，这些键会在您键入时进行过滤：
+			- ![](https://blog.logseq.com/content/images/2022/08/image.png)
+			- 选择键时，您将看到与该键组合使用的所有值：
+			- ![](https://blog.logseq.com/content/images/2022/08/image-1.png)
+	- ## 先睹为快：Logseq 同步和白板
+		- 🔄 [**Logseq Sync**](https://twitter.com/logseq/status/1550438645534007297)
+			- 我们即将推出封闭测试版的 Logseq Sync 服务。如果您一直在努力使用 Dropbox、OneDrive 或 iCloud 等提供商保持设备同步，Logseq Sync 将是解决方案。
+				- [[Logseq Sync]]
+			- 同步将在免费和付费计划中提供，我们的 OpenCollective 支持者和赞助商将首先通过封闭测试版获得访问权限。我们很快会向您发送一封包含更多信息的电子邮件。
+				- [[Open Collective]]
+				- [[Sponsor]]
+				- [[Backer]]
+			- 想知道 Logseq Sync 的实际应用吗？不久前，我们在 Twitter 上发布了这段视频：
+			- <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 587px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/Tweet.html?creatorScreenName=rroudt&amp;dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19jaGluX3BpbGxzXzE0NzQxIjp7ImJ1Y2tldCI6ImNvbG9yX2ljb25zIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2V4cGVyaW1lbnRzX2Nvb2tpZV9leHBpcmF0aW9uIjp7ImJ1Y2tldCI6MTIwOTYwMCwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1550438645534007297&amp;lang=en&amp;origin=https%3A%2F%2Fblog.logseq.com%2Fnewsletter-12-how-to-structure-your-logseq-graph-for-insight%2F&amp;sessionId=6b75294c644561f0d48cc7a75f1693c10130ed9c&amp;siteScreenName=logseq&amp;theme=light&amp;widgetsVersion=1c23387b1f70c%3A1664388199485&amp;width=550px" data-tweet-id="1550438645534007297"></iframe>
+		- 🧑‍🏫 [**Logseq 白板**](https://twitter.com/pengx17/status/1552172906146398208?s=20&t=6ilf0wWPkI_tFiST1X3TFQ)
+			- 社区贡献者[Peng](https://twitter.com/pengx17)即将发布 Logseq 白板功能的第一个公共版本。基于[tldraw](https://github.com/tldraw/tldraw)，Logseq Whiteboard 将为您的图形带来空间思维。这是其当前功能的演示：
+				- [[Logseq Whiteboard]]
+			- <iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 657px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/Tweet.html?creatorScreenName=rroudt&amp;dnt=false&amp;embedId=twitter-widget-1&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19jaGluX3BpbGxzXzE0NzQxIjp7ImJ1Y2tldCI6ImNvbG9yX2ljb25zIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2V4cGVyaW1lbnRzX2Nvb2tpZV9leHBpcmF0aW9uIjp7ImJ1Y2tldCI6MTIwOTYwMCwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1552172906146398208&amp;lang=en&amp;origin=https%3A%2F%2Fblog.logseq.com%2Fnewsletter-12-how-to-structure-your-logseq-graph-for-insight%2F&amp;sessionId=6b75294c644561f0d48cc7a75f1693c10130ed9c&amp;siteScreenName=logseq&amp;theme=light&amp;widgetsVersion=1c23387b1f70c%3A1664388199485&amp;width=550px" data-tweet-id="1552172906146398208"></iframe>
+	- ## 新主题和插件
+		- 在过去的几周里，几个新的主题和插件登陆了市场。在Logseq中的`...`> `Plugins` > `Marketplace`中搜索它们。
+		- 🎨 **[Luma 主题](https://github.com/gavinmn/logseq-luma)**
+			- 设计师[Gavin Nelson](https://twitter.com/Gavmn)最近才来到 Logseq 社区，并且已经创建了这个名为**Luma**的美丽主题：
+			- ![](https://blog.logseq.com/content/images/2022/08/logseq-luma-theme.png)
+		- 📺 [**Movies Plugin**](https://github.com/darthorimar/logseq-movies-plugin)
+			- 如果你使用 Logseq 来维护个人电影数据库，你必须有 Movies Plugin。它使您可以轻松搜索[IMDb](https://www.imdb.com/)并插入指向特定标题的链接。
+				- [[IMDb]]
+		- 🤓 [**Simpread 插件**](https://github.com/OverflowCat/logseq-simpread)
+			- 如果你使用中文开源沉浸式阅读应用[Simpread](https://github.com/Kenshin/simpread)，你会想要使用它[与 Logseq 的官方集成](https://github.com/OverflowCat/logseq-simpread)。
+				- [[SimpRead]]
+		- 📅 [**[更新] 横幅插件**](https://github.com/yoyurec/logseq-banners-plugin)
+			- [Yurii](https://twitter.com/yoyurec) Piskun的主题和插件让我们惊叹不已。他的[横幅插件](https://github.com/yoyurec/logseq-banners-plugin)的最新更新 (2.0)附带了一个小部件功能。您不仅可以通过添加顶部横幅来个性化各个页面，现在您还可以添加天气、番茄计时器和日历！
+			- ![](https://blog.logseq.com/content/images/2022/08/widgets-dark-03.png)
+	- ## 向社区学习
+		- 🕸[**如何在 Graph 中创建连接**](https://www.youtube.com/watch?v=yJOox5FbuAM)
+			- 在此视频中，[Stephen Solka](https://twitter.com/trashhalo)（[Graph 分析插件](https://github.com/trashhalo/logseq-graph-analysis)的创建者）展示了如何在 Graph 视图中创建连接。虽然 Graph 需要改进，但如果您组织笔记，查看关系已经很有帮助。
+		- 💡[**使用 Logseq 产生新想法**](https://www.youtube.com/watch?v=_x0iAgY1Zao)
+			- Stephen Solka 的另一个有用资源是这段视频演练，介绍了他如何使用 Logseq 产生新想法。Stephen 向我们展示了他如何遇到新想法，如何通过重组和链接来处理想法，使用 GPT-3 深入挖掘一个主题，并使用他的 Graph Analysis 插件来发现新的联系。
+		- 📑 Logseq[**中命名空间的终极指南**](https://www.youtube.com/watch?v=POQgVXpaHxw)
+			- 虽然 Logseq 没有​​传统的文件夹结构，但您绝对可以构建您的笔记。在 Logseq 中，您可以使用称为命名空间的东西轻松创建页面层次结构。在此视频中，Aryan Sawhney 将教您在任何凌乱的 Graph 中进行排序所需知道的一切。
+				- [[Logseq/Namespace]]
+		- 🧑‍🎓**[理想的学术工作流程，图解](https://luhmann-logseq.notion.site/Ideal-Academic-Workflow-Illustrated-99bbe3f259ab426895831cb7293da452)**
+			- 学术和“工作流程思想家” [Luhmann](https://discuss.logseq.com/u/luhmann/summary) 创建了他的工作流程图解演练。如果您使用 Logseq 进行研究并需要跟踪您的来源，那么此工作流程应该适合您。
+	-
+	- ---
+	- ## 原文链接
+		- [Newsletter #12: How to Structure Your Logseq Graph for Insight - https://blog.logseq.com/newsletter-12-how-to-structure-your-logseq-graph-for-insight/](https://blog.logseq.com/newsletter-12-how-to-structure-your-logseq-graph-for-insight/)
