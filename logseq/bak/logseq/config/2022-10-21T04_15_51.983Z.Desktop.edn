@@ -77,7 +77,7 @@
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
 
- :default-home {:page "Logseq Newsletter"}
+ :default-home {:page "Logseq 实战 (Logseq in Action)", :sidebar "Contents"}
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory

@@ -13,6 +13,9 @@
  {:block/name "block highlight",
   :block/created-at 1666323984955,
   :block/updated-at 1666323984955}
+ {:block/name "blogbins",
+  :block/created-at 1666325029291,
+  :block/updated-at 1666325029291}
  {:block/name "c",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
@@ -210,7 +213,7 @@
   :block/updated-at 1666323984959}
  {:block/name "关于",
   :block/created-at 1665576907286,
-  :block/updated-at 1665576907286}
+  :block/updated-at 1666325324483}
  {:block/name "欢迎来到 logseqers 之家！",
   :block/created-at 1666323985122, 
   :block/updated-at 1666323985122}]

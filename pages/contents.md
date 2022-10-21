@@ -2,5 +2,5 @@
 - [[Logseq Blog]]
 	- [[欢迎来到 Logseqers 之家！]]
 	- [[Logseq Newsletter]]
--
+	- {{embed ((63521899-e39c-4150-945b-92126d7cfffd))}}
 - [[关于]]
