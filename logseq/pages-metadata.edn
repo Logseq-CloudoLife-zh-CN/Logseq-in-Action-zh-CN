@@ -1,13 +1,4 @@
-[{:block/name "10",
-  :block/created-at 1665553535207,
-  :block/updated-at 1665553535207}
- {:block/name "11",
-  :block/created-at 1665479938112,
-  :block/updated-at 1665479938112}
- {:block/name "12",
-  :block/created-at 1665479938745,
-  :block/updated-at 1665479938745}
- {:block/name "14",
+[{:block/name "14",
   :block/created-at 1666323984965,
   :block/updated-at 1666323984965}
  {:block/name "a",
@@ -67,9 +58,6 @@
  {:block/name "logseq blog",
   :block/created-at 1665479938998,
   :block/updated-at 1665479938998}
- {:block/name "logseq in action",
-  :block/created-at 1665494721018,
-  :block/updated-at 1665494721018}
  {:block/name "logseq newsletter",
   :block/created-at 1665479937978,
   :block/updated-at 1665479937978}
@@ -85,9 +73,6 @@
  {:block/name "logseq whiteboard",
   :block/created-at 1665479938735,
   :block/updated-at 1665479938735}
- {:block/name "logseq 实战",
-  :block/created-at 1665494731338,
-  :block/updated-at 1665494731338}
  {:block/name "logseq 实战 (logseq in action)",
   :block/created-at 1665494711179,
   :block/updated-at 1665494711179}
@@ -95,10 +80,6 @@
   "logseq.newsletter #13: we've been busy building this summer!",
   :block/created-at 1666323984557,
   :block/updated-at 1666323984557}
- {:block/name
-  "logseq.newsletter #13: we've been busy building this summer!/zh-cn",
-  :block/created-at 1666323984556,
-  :block/updated-at 1666323984556}
  {:block/name "logseq/namespace",
   :block/created-at 1665479938740,
   :block/updated-at 1665479938740}
@@ -134,6 +115,18 @@
  {:block/name "logseq/newsletter #12：如何构建 logseq graph 以获得洞察力",
   :block/created-at 1665553527745,
   :block/updated-at 1665553527745}
+ {:block/name
+  "logseq/newsletter #13: we've been busy building this summer!/zh-cn",
+  :block/created-at 1666323984556,
+  :block/updated-at 1666323984556}
+ {:block/name
+  "logseq/newsletter #14: a better pdf reader, sync, whiteboards, and new community creations",
+  :block/created-at 1666324200721,
+  :block/updated-at 1666324200721}
+ {:block/name
+  "logseq/newsletter #14: a better pdf reader, sync, whiteboards, and new community creations/zh-cn",
+  :block/created-at 1666323984977,
+  :block/updated-at 1666324161832}
  {:block/name "logseq/welcome to the home of logseqers!",
   :block/created-at 1665583425011,
   :block/updated-at 1665583560342}
@@ -143,10 +136,6 @@
  {:block/name "logseq/欢迎来到 logseqers 之家！",
   :block/created-at 1665583425009,
   :block/updated-at 1665583425009}
- {:block/name
-  "logseq___newsletter #14: a better pdf reader, sync, whiteboards, and new community creations___zh-cn",
-  :block/created-at 1666323984977,
-  :block/updated-at 1666323984977}
  {:block/name "newsletter #10: how to use logseq for research",
   :block/created-at 1666323983381,
   :block/updated-at 1666323983381}
@@ -175,11 +164,11 @@
   :block/updated-at 1666323984547}
  {:block/name
   "newsletter #14: a better pdf reader, sync, whiteboards, and new community creations",
-  :block/created-at 1666323984972,
-  :block/updated-at 1666323984972}
+  :block/created-at 1666324134882,
+  :block/updated-at 1666324134882}
  {:block/name "newsletter #14：更好的 pdf 阅读器、同步、白板和新的社区创作",
-  :block/created-at 1666323984967,
-  :block/updated-at 1666323984967}
+  :block/created-at 1666324134878,
+  :block/updated-at 1666324134878}
  {:block/name "now",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
@@ -189,12 +178,9 @@
  {:block/name "oct 12th, 2022",
   :block/created-at 1665528382004,
   :block/updated-at 1665549063985}
- {:block/name "oct 13th, 2022",
-  :block/created-at 1665623107223,
-  :block/updated-at 1665623107223}
  {:block/name "oct 21st, 2022",
   :block/created-at 1666323985258,
-  :block/updated-at 1666323985258}
+  :block/updated-at 1666324200722}
  {:block/name "open collective",
   :block/created-at 1665479938732,
   :block/updated-at 1665479938732}
@@ -216,9 +202,6 @@
  {:block/name "todo",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
- {:block/name "url",
-  :block/created-at 1665479938747,
-  :block/updated-at 1665479938747}
  {:block/name "wait",
   :block/created-at 1665480496019,
   :block/updated-at 1665480496019}
@@ -228,15 +211,9 @@
  {:block/name "whiteboard",
   :block/created-at 1666323984959,
   :block/updated-at 1666323984959}
- {:block/name "任务",
-  :block/created-at 1665549207514,
-  :block/updated-at 1665549207514}
  {:block/name "关于",
   :block/created-at 1665576907286,
   :block/updated-at 1665576907286}
  {:block/name "欢迎来到 logseqers 之家！",
-  :block/created-at 1666323985122,
-  :block/updated-at 1666323985122}
- {:block/name "项目",
-  :block/created-at 1665549207516, 
-  :block/updated-at 1665549207516}]
+  :block/created-at 1666323985122, 
+  :block/updated-at 1666323985122}]
