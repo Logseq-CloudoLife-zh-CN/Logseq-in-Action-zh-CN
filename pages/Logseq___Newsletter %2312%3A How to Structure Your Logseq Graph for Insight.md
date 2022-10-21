@@ -1,0 +1,133 @@
+tags:: [[Logseq]] [[Logseq Newsletter]] [[Logseq Blog]] [[Logseq Sync]]
+title:: Logseq/Newsletter #12: How to Structure Your Logseq Graph for Insight
+url:: https://blog.logseq.com/newsletter-12-how-to-structure-your-logseq-graph-for-insight/
+author:: [[Ramses Oudt]]
+
+-
+-
+- [[Insight]] #[[unfamiliar]]
+- [[chock-full]] #[[unfamiliar]]
+	- [[chock]]
+	- [[full]]
+- [[sneak peek]] #[[unfamiliar]]
+	- [[sneak]]
+	- [[peak]]
+- [[polish]] #[[unfamiliar]]
+- [[overhaul]] #[[unfamiliar]]
+- [[Curious]] #[[unfamiliar]]
+- [[clip]] #[[unfamiliar]]
+- [[spatial]] #[[unfamiliar]]
+- [[immersive]] #[[unfamiliar]]
+- [[definitely]] #[[unfamiliar]]
+- [[messy]] #[[unfamiliar]]
+-
+- AUG 2, 2022  3 MIN READ  [NEWSLETTERS](https://blog.logseq.com/tag/newsletters/)
+- # Newsletter \#12: How to Structure Your Logseq Graph for Insight
+	- [[Insight]]
+	- ![Newsletter #12: How to Structure Your Logseq Graph for Insight](https://blog.logseq.com/content/images/size/w960/2022/08/newsletter-structured-graph-featured.png)
+	- Hi Logseqers!
+	- After a short break, we're back with a newsletter chock-full of resources to help you get more out of Logseq.
+		- [[be back]]
+		- [[chock-full]]
+			- [[chock]]
+			- [[full]]
+		- [[get more out of sth.]]
+			- [[out of sth.]]
+	- This week, you get a sneak peek of the coming Sync and Whiteboard features, an overview of new plugins and themes, and learn everything you need to know about structuring your graph.
+		- [[sneak peek]]
+			- [[sneak]]
+			- [[peak]]
+		- [[Logseq Sync]]
+		- [[Whiteboard]]
+	- Let's dig in!
+		- [[dig in]]
+			- [[dig]]
+	- ## New in Logseq
+		- We're up to version 0.7.9., with the last few updates adding some more polish to Logseq. [Download the latest version from Logseq.com](https://logseq.com/) or check inside the app (`...` > `Settings`) to update.
+			- [[be up to]]
+			- [[polish]]
+		- Apart from fixes, we've overhauled the `property::` system. This should make it easier to maintain your personal system of metadata.
+			- [[appart]]
+			- [[overhaul]]
+			- [[Metadata]]
+		- From now on, whenever you type `::` you'll see a list of previously used property keys, which filters as you type:
+			- [[From now on]]
+			- [[whenever]]
+			- [[previously]]
+				- [[previous]]
+		- ![](https://blog.logseq.com/content/images/2022/08/image.png)
+		- When selecting a key, you'll see all the values you've used in combination with that key:
+			- [[combination]]
+		- ![](https://blog.logseq.com/content/images/2022/08/image-1.png)
+	- ## Sneak peek: Logseq Sync and Whiteboard
+		- 🔄 [**Logseq Sync**](https://twitter.com/logseq/status/1550438645534007297)
+		- We're close to launching our Logseq Sync service in closed beta. If you've been struggling to keep your devices in sync using providers like Dropbox, OneDrive, or iCloud, Logseq Sync will be the solution.
+			- [[be close to]]
+			- [[closed beta]]
+			- [[struggle]]
+		- Sync will be available in free and paid plans, and our OpenCollective Backers and Sponsors will first get access via the closed beta. We'll soon send you an email with more information.
+			- [[Open Collective]]
+			- [[Sponsor]]
+			- [[Backer]]
+		- Curious to see Logseq Sync in action? We posted this clip to Twitter a while ago:
+			- [[Curious]]
+			- [[in action]]
+			- [[clip]]
+			- [[a while ago]]
+			- <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 587px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/Tweet.html?creatorScreenName=rroudt&amp;dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19jaGluX3BpbGxzXzE0NzQxIjp7ImJ1Y2tldCI6ImNvbG9yX2ljb25zIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2V4cGVyaW1lbnRzX2Nvb2tpZV9leHBpcmF0aW9uIjp7ImJ1Y2tldCI6MTIwOTYwMCwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1550438645534007297&amp;lang=en&amp;origin=https%3A%2F%2Fblog.logseq.com%2Fnewsletter-12-how-to-structure-your-logseq-graph-for-insight%2F&amp;sessionId=6b75294c644561f0d48cc7a75f1693c10130ed9c&amp;siteScreenName=logseq&amp;theme=light&amp;widgetsVersion=1c23387b1f70c%3A1664388199485&amp;width=550px" data-tweet-id="1550438645534007297"></iframe>
+		- 🧑‍🏫 [**Logseq Whiteboard**](https://twitter.com/pengx17/status/1552172906146398208?s=20&t=6ilf0wWPkI_tFiST1X3TFQ)
+		- Community contributor [Peng](https://twitter.com/pengx17) is close to releasing the first public version of the Logseq Whiteboard feature. Based on [tldraw](https://github.com/tldraw/tldraw), Logseq Whiteboard will bring spatial thinking to your graph. Here's a demo of its current capabilities:
+			- [[Logseq Whiteboard]]
+			- [[contributor]]
+			- [[tldraw]]
+			- [[spatial]]
+			- [[capability]]
+		- <iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 657px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/Tweet.html?creatorScreenName=rroudt&amp;dnt=false&amp;embedId=twitter-widget-1&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19jaGluX3BpbGxzXzE0NzQxIjp7ImJ1Y2tldCI6ImNvbG9yX2ljb25zIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2V4cGVyaW1lbnRzX2Nvb2tpZV9leHBpcmF0aW9uIjp7ImJ1Y2tldCI6MTIwOTYwMCwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1552172906146398208&amp;lang=en&amp;origin=https%3A%2F%2Fblog.logseq.com%2Fnewsletter-12-how-to-structure-your-logseq-graph-for-insight%2F&amp;sessionId=6b75294c644561f0d48cc7a75f1693c10130ed9c&amp;siteScreenName=logseq&amp;theme=light&amp;widgetsVersion=1c23387b1f70c%3A1664388199485&amp;width=550px" data-tweet-id="1552172906146398208"></iframe>
+	- ## New themes and plugins
+		- Several new themes and plugins landed in the Marketplace in the past weeks. Search for them in `...` > `Plugins` > `Marketplace` within Logseq.
+			- [[several]]
+			- [[Marketplace]]
+		- 🎨 **[Luma Theme](https://github.com/gavinmn/logseq-luma)**
+		- Designer [Gavin Nelson](https://twitter.com/Gavmn) has only recently arrived in the Logseq community and has already created this beautiful theme titled **Luma**:
+			- [[Designer]]
+		- ![](https://blog.logseq.com/content/images/2022/08/logseq-luma-theme.png)
+		- 📺 [**Movies Plugin**](https://github.com/darthorimar/logseq-movies-plugin)
+		- If you use Logseq to maintain a personal database of movies, you must have the Movies Plugin. It lets you easily search [IMDb](https://www.imdb.com/) and insert the link to specific titles.
+			- [[IMDb]]
+			- [[specific]]
+		- 🤓 [**Simpread Plugin**](https://github.com/OverflowCat/logseq-simpread)
+		- If you use the Chinese open-source immersive reading app [Simpread](https://github.com/Kenshin/simpread), you'll want to use its [official integration with Logseq](https://github.com/OverflowCat/logseq-simpread).
+			- [[SimpRead]]
+			- [[immersive]]
+		- 📅 [**[Updated] Banners Plugin**](https://github.com/yoyurec/logseq-banners-plugin)
+		- [Yurii Piskun](https://twitter.com/yoyurec) keeps amazing us with his themes and plugins. The latest update (2.0) of his [Banners Plugin](https://github.com/yoyurec/logseq-banners-plugin) shipped with a widget feature. Not only can you personalize individual pages by adding a top banner, but now you can also add the weather, a Pomodoro timer, and a calendar!
+			- [[personalize]]
+			- [[individual]]
+			- [[Pomodoro]]
+			- [[calendar]]
+		- ![](https://blog.logseq.com/content/images/2022/08/widgets-dark-03.png)
+	- ## Learn from the community
+		- 🕸 [**How to create connections in your graph**](https://www.youtube.com/watch?v=yJOox5FbuAM)
+		- In this video, [Stephen Solka](https://twitter.com/trashhalo) (creator of the [Graph Analysis plugin](https://github.com/trashhalo/logseq-graph-analysis)) shows how to create connections in the graph view. While the graph needs improvement, it can already be helpful to see relationships—if you structure your notes.
+			- [[improvement]]
+		- 💡 [**Generate new ideas with Logseq**](https://www.youtube.com/watch?v=_x0iAgY1Zao)
+		- Another useful resource by Stephen Solka is this video walkthrough of how he generates new ideas using Logseq. Stephen shows us how he encounters new ideas, processes ideas by restructuring and linking them, uses GPT-3 to dig deeper into a topic, and uses his Graph Analysis plugin to discover new connections.
+			- [[walkthrough]]
+			- [[encounter]]
+			- [[restructure]]
+			- [[discover]]
+		- 📑 [**The ultimate guide to namespaces in Logseq**](https://www.youtube.com/watch?v=POQgVXpaHxw)
+		- While Logseq doesn't have a traditional folder structure, you can definitely structure your notes. In Logseq, you easily create a page hierarchy using something called namespaces. In this video, Aryan Sawhney teaches you everything you need to know to make order in any messy graph.
+			- [[Logseq/Namespace]]
+			- [[traditional]]
+			- [[Folder]]
+			- [[definitely]]
+			- [[hierarchy]]
+			- [[messy]]
+		- 🧑‍🎓 **[Ideal academic workflow, illustrated](https://luhmann-logseq.notion.site/Ideal-Academic-Workflow-Illustrated-99bbe3f259ab426895831cb7293da452)**
+		- Academic and "workflow thinker" _[Luhmann](https://discuss.logseq.com/u/luhmann/summary)_ created this illustrated walkthrough of his workflow. If you use Logseq for research and need to keep track of your sources, this workflow should work well for you.
+			- [[academic]]
+			- [[workflow thinker]]
+			- [[illustrate]]
+			- [[walkthrough]]
+			- [[keep track of sth.]]

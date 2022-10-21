@@ -1,0 +1,130 @@
+author:: [[Ramses Oudt]]
+tags:: [[Logseq]] [[Logseq Newsletter]]
+title:: Logseq/Newsletter #13: We've Been Busy Building This Summer!
+url:: https://blog.logseq.com/newsletter-13-weve-been-busy-building-this-summer/
+
+-
+-
+- [[catch up with sth.]] #[[unfamiliar]]
+- [[curriculum]] #[[unfamiliar]]
+- [[Last but not least]] #[[unfamiliar]]
+- [[roundup]] #[[unfamiliar]]
+- [[frustrating]] #[[unfamiliar]]
+	- [[frustrate]]
+- [[avid]] #[[unfamiliar]]
+	- [[keen]]
+	- [[eager]]
+	- [[enthusiastic]]
+	- [[ardent]]
+- [[not to mention]] #[[unfamiliar]]
+- [[end to end encryption]] #[[unfamiliar]]
+	- [[end to end]]
+	- [[encryption]]
+- [[Sponsor]] #[[unfamiliar]]
+- [[Backer]] #[[unfamiliar]]
+- [[be a wrap]] #[[unfamiliar]]
+	- [[It's a wrap]]
+	- [[wrap sth. in]]
+- [[energy]]
+- [[grok]] #[[unfamiliar]]
+	- [[understand]]
+- [[self-paced]] #[[unfamiliar]]
+- [[In case]]
+- [[long form writing]] #[[unfamiliar]]
+- [[come in handy]] #[[unfamiliar]]
+	- [[come in]]
+	- [[handy]]
+-
+-
+- SEP 19, 2022  3 MIN READ  [NEWSLETTERS](https://blog.logseq.com/tag/newsletters/)
+- # Newsletter \#13: We've Been Busy Building This Summer!
+	- ![Newsletter #13: We've Been Busy Building This Summer!](https://blog.logseq.com/content/images/size/w960/2022/09/building-featured.png)
+	- Dear Logseqers,
+	- We're back from our newsletter break! As the community was enjoying the summer and not sharing as many resources, we used the time to keep building. In this newsletter, we'll share some of the things we've been working on and what you can expect next from us.
+		- [[community]]
+	- This summer, we also ran two learning sprints to help you master Logseq queries. [Go to the queries forum](https://discuss.logseq.com/tags/c/learning-sprints/queries/20/lesson) or scroll down towards the end of this newsletter to catch up with the curriculum.
+		- [[catch up with sth.]]
+		- [[curriculum]]
+	- Last but not least, we finish the newsletter with a roundup of new community plugins.
+		- [[Last but not least]]
+		- [[roundup]]
+	- What workflows will you create with these new building blocks?
+	- ## Get early access to Logseq Sync
+		- Probably the most frustrating part of Logseq is syncing between different devices.
+			- [[frustrating]]
+				- [[frustrate]]
+		- As avid mobile users ourselves, we often ran into sync conflicts when using services like iCloud and Dropbox. We heard the same from you, not to mention the privacy concerns of using such services. That's why we've been working on our own sync service, offering end to end encryption so don't have to trust _anyone_ with the keys to your data (including us).
+			- [[avid]]
+				- [[keen]]
+				- [[eager]]
+				- [[enthusiastic]]
+				- [[ardent]]
+			- [[not to mention]]
+			- [[privacy]]
+			- [[concern]]
+			- [[end to end encryption]]
+				- [[end to end]]
+				- [[encryption]]
+		- We've been testing Logseq Sync with a small group of testers and our Sponsors (those who [donate more than $15 per month](https://opencollective.com/logseq/contribute/sponsors-21163)). Now that we've solved some important challenges, we're almost ready to make Sync available to our Backers as well (those who [donate $5 per month](https://opencollective.com/logseq/contribute/backers-21161)). If you're a Backer (or become one now), expect an email with more information later this week.
+			- [[Sponsor]]
+			- [[challenge]]
+			- [[Backer]]
+			- [[as well]]
+		- We don't know yet when Sync will be generally available. But if you want to get early access and provide us with your invaluable feedback, please [become a Backer](https://opencollective.com/logseq/contribute/backers-21161) or a [Sponsor](https://opencollective.com/logseq/contribute/sponsors-21163).
+		- [[invaluable]]
+	- ## What has changed since 0.7.9.
+		- When we sent the last newsletter, we were on version 0.7.9. of Logseq Beta. Over the past weeks, we've iterated quickly and are now up to [0.8.7.](https://github.com/logseq/logseq/releases/tag/0.8.7) These are the most important changes in the past weeks:
+			- Massive performance improvements for large graphs.
+				- [[massive]]
+				- [[improvement]]
+			- Improved linked references, including a search field for values.
+			- [(Page) properties](https://docs.logseq.com/#/page/term%2Fproperties) are now clickable and create pages (thus offering more ways to search).
+			- Added support for a [global config file](https://docs.logseq.com/#/page/Global%20configuration), which applies your configuration to all of your graphs.
+			- Added support for `Ctrl-f` (`Cmd-f` on macOS) to [find in a page](https://docs.logseq.com/#/page/Find%20in%20page). This feature works on every page in Logseq, including built-in keyboard shortcuts page.
+			- Thanks to the community, Logseq is now available in the following languages: English, French, German, Dutch, Afrikaans, Norwegian, Polish, Italian, Spanish, Portuguese (Brazilian and European), Turkish, Russian, Chinese (Simplified and Traditional), Japanese, and Korean.
+	- ## Take a deep dive into Logseq queries
+		- The summer query sprints are a wrap! In July and August, over 250 of you decided to take the time and energy to better grok Logseq.
+			- [[be a wrap]]
+				- [[It's a wrap]]
+				- [[wrap sth. in]]
+			- [[energy]]
+			- [[grok]]
+				- [[understand]]
+		- The August sprint was structured as a self-paced course, with a daily challenge to make the knowledge your own. In case you missed the lessons here's a full overview:
+			- [[self-paced]]
+			- [[challenge]]
+			- [[In case]]
+			- [**Kick-Off Session:** Supercharge Your Search By Mastering Logseq Queries](https://discuss.logseq.com/t/kick-off-session-supercharge-your-search-by-mastering-logseq-queries/10069)
+			- [**Lesson 1:** What Are Logseq Queries and Why You Should Learn to Use Them](https://discuss.logseq.com/t/lesson-1-what-are-logseq-queries-and-why-you-should-learn-to-use-them/9987)
+			- [**Lesson 2:** Why You Should Outline and Link Your Notes](https://discuss.logseq.com/t/lesson-2-why-you-should-outline-and-link-your-notes/10038)
+			- [**Lesson 3:** How to Think Like a Computer Using Boolean Logic](https://discuss.logseq.com/t/lesson-3-how-to-think-like-a-computer-using-boolean-logic/10074)
+			- [**Lesson 4:** How to Search Your Notes Using Query Filters and Links](https://discuss.logseq.com/t/lesson-4-how-to-search-your-notes-using-query-filters-and-links/10131)
+			- [**Lesson 5:** How to Power Your Workflows Using Properties and Dynamic Variables](https://discuss.logseq.com/t/lesson-5-how-to-power-your-workflows-using-properties-and-dynamic-variables/10173)
+		- Once you have the theory down, challenge yourself some more by doing these build challenges:
+			- [**Challenge 1:** Build a Dynamic Notes Index](https://discuss.logseq.com/t/challenge-1-build-a-dynamic-notes-index/10274)
+			- [**Challenge 2:** Build a Content Consumption Pipeline](https://discuss.logseq.com/t/challenge-2-build-a-content-consumption-pipeline/10305)
+			- [**Challenge 3:** Build a Content Creation Pipeline](https://discuss.logseq.com/t/challenge-3-build-a-content-creation-pipeline/10333)
+			- [**Challenge 4:** Build a Project Management Dashboard](https://discuss.logseq.com/t/challenge-4-build-a-project-management-dashboard/10384)
+			- [**Challenge 5:** Build a Personal Learning Dashboard](https://discuss.logseq.com/t/challenge-5-build-a-personal-learning-dashboard/10418)
+	- ## New community plugins
+		- Several new plugins landed in the Marketplace in the past weeks. Search for them in  `...`  >  `Plugins`  >  `Marketplace`  within Logseq.
+		- 🔄 [**Logseq Random Block**](https://github.com/vipzhicheng/logseq-plugin-random-block)
+		- Give yourself a jolt of inspiration with this random block plugin. Using tags and links, you can finely tune from what pool of blocks to pull.
+		- 📈 [**Logseq Echarts**](https://github.com/guzhongren/logseq-echarts)
+			- [[Echarts]]
+		- If you use [Apache Echarts](https://echarts.apache.org/en/index.html) (a JavaScript visualization library), you'll like this plugin. It allows you to write Echarts JSON directly in Logseq and have it render the charts.
+		- 📗 [**Logseq Dictionary**](https://github.com/trashhalo/logseq-dictionary)
+		- With this multi-language dictionary, learning languages with Logseq is a breeze.
+			- [[]]
+		- 🪧 **[Admonition Panels](https://github.com/nmartin84/admonition-panels)**
+		- Building your personal wiki just became much easier thanks to this admonitions plugin. It enables you to call attention to blocks using beautiful styling:
+			- [[admonitions]]
+			- [[attention]]
+		- ![](https://blog.logseq.com/content/images/2022/09/image.png)
+		- 📄 [**Merge Nested Blocks**](https://github.com/georgeguimaraes/logseq-plugin-merge-nested-blocks-into-one)
+		- Do you use Logseq for long form writing? This plugin will come in handy, as it allows you to turn an entire branch of blocks into one single page-like block:
+			- [[long form writing]]
+			- [[come in handy]]
+				- [[come in]]
+				- [[handy]]
+		- ![](https://blog.logseq.com/content/images/2022/09/merge-blocks-demo.gif)

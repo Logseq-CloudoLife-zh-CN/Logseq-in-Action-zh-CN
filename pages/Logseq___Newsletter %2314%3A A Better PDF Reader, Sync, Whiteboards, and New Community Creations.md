@@ -1,0 +1,107 @@
+tags:: [[Logseq]] [[Logseq Newsletter]] [[Newsletter #14: A Better PDF Reader, Sync, Whiteboards, and New Community Creations]]
+url:: https://blog.logseq.com/newsletter-14-a-better-pdf-reader-sync-whiteboards-and-new-community-creations
+
+-
+- OCT 19, 2022  4 MIN READ  [NEWSLETTERS](https://blog.logseq.com/tag/newsletters/)
+- # Newsletter \#14: A Better PDF Reader, Sync, Whiteboards, and New Community Creations
+	- ![Newsletter #14: A Better PDF Reader, Sync, Whiteboards, and New Community Creations](https://blog.logseq.com/content/images/size/w960/2022/10/logseq-newsletter-14-featured.png)
+	- Hi Logseqers!
+	- This month's newsletter is chockfull of exciting announcements and new features. Together with the community, we've been polishing some core features and working on new ones that will surely make you a better thinker and learner.
+		- [[chockful]]
+			- [[chock]]
+		- [[polish]]
+	- If you have suggestions on how we can keep improving, please let us know in the [Logseq forum](https://discuss.logseq.com/) or the [official Logseq server on Discord](https://discord.gg/5KwWf8QnQU).
+	- For now, let's see what we've been building!
+	- ## New in 0.8.9.
+		- Today we released [version 0.8.9. of Logseq Desktop and Android](https://github.com/logseq/logseq/releases/tag/0.8.9). The new iOS version will soon arrive in the App Store.
+		- We've added a slew of new features and refined some existing ones. These are our favorite changes:
+		  id:: 111bdb88-2aaf-4517-9c47-1ac72fb04830
+			- [[a slew of]]
+				- [[slew]]
+			- [[refine]]
+		- 📑 **PDF reader improvements**
+		- One of Logseq's most popular features just got much better!
+		- We've added **full-text search** for PDFs, one of the most requested features.
+		- Next, we added a **highlights pane** where you get an overview of all highlights in a PDF.
+		- Last but not least, the color of your highlights also gets more meaning as the **highlight reference now matches the highlight color**. See the demo below:
+			- [[Last but not least]]
+		- <video src="https://cdn.loom.com/sessions/thumbnails/fa7ad4bb1dcd4d21b8f76e3e03c19d7f-00001.mp4" playsinline="" loop="" autoplay="" class="css-1dd3ex7"></video>
+		- 🎨 **Block highlights**
+		- Not just the PDF reader got a lick of paint; you can now also add a splash of color to individual blocks. Right-click on a block's bullet, and you can select what color to highlight it with:
+			- [[a lick of]]
+				- [[lick]]
+			- [[splash]]
+			- [[individual]]
+			- [[bullet]]
+		- <video src="https://blog.logseq.com/content/media/2022/10/block-highlight-demo.webm" poster="https://img.spacergif.org/v1/1280x720/0a/spacer.png" width="1280" height="720" playsinline="" preload="metadata" style="background: transparent url('https://blog.logseq.com/content/images/2022/10/media-thumbnail-ember287.jpg') 50% 50% / cover no-repeat;"></video>
+		- 🔌 **Persistent plugin list**
+		- Better plugin management was another popular request. Many of us work on multiple desktops, and having to maintain two or more lists of plugins becomes old very quickly.
+		- That's why we've added the `plugins.edn` file, which saves your list of plugins and makes it easy to share them with your devices—or members of the Logseq community. [Read in our documentation how to use plugins.edn.](https://docs.logseq.com/#/page/plugins.edn)
+	- ## Sync status
+		- In our [previous newsletter](https://blog.logseq.com/newsletter-13-weve-been-busy-building-this-summer/), we mentioned that we would soon open the Sync service to our Backers. Unfortunately, the alpha testing phase is taking longer than expected. It seems Babbage's Law still holds true: _"No computer ever gets built on time."_
+			- [[mention]]
+			- [[Unfortunately]]
+			- [[alpha testing phase]]
+				- [alpha]
+			- [[Babbage's Law]]
+			- [[hold true]]
+			- [[on time]]
+		- For the moment we're limiting Sync access to those on the [Sponsor tier](https://opencollective.com/logseq/contribute/sponsors-21163) because we still have to do quite a bit of troubleshooting. That means we can't scale by adding many more Sync users at once, as it would clog our support channel.
+			- [[troubleshooting]]
+		- If you really cannot wait, feel free to [become a Sponsor](https://opencollective.com/logseq/contribute/sponsors-21163). Please do realize you'll be using alpha software. While we've been using Sync mostly without issue for months, sometimes we run into issues requiring time and attention.
+			- [[feel free to]]
+			- [[attention]]
+		- > 💡 A side note for those who have donated more than $15 but can't access Sync: our **alpha functionality is available to those on our [Open Collective _Sponsor tier_](https://opencollective.com/logseq/contribute/sponsors-21163)**. Donating $15 does not automatically result in being on this tier; you must select it explicitly. By becoming a Sponsor, you commit to donating $15 _per month_ until you cancel the recurring donation.
+			- [[donate]]
+			- [[tier]]
+		- If you can wait, please know that we're working very hard to open Logseq Sync to more of our financial backers. In the meanwhile, here's a taste of what Sync looks like (status indicator and page history):
+			- [[financial]]
+			- [[In the meanwhile]]
+				- [[meanwhile]]
+			- [[indicator]]
+		- ![](https://blog.logseq.com/content/images/2022/10/image-3.png)
+		- ![](https://blog.logseq.com/content/images/2022/10/image-1.png)
+	- ## Whiteboards are now available for Sponsors
+		- If you're a Sponsor, you can also access the alpha version of the whiteboards functionality starting today. Based on [tldraw](https://github.com/tldraw/tldraw), whiteboards let you use your outlines on an infinite canvas and draw any shape you like.
+			- [[Whiteboard]]
+			- [[tldraw]]
+			- [[infinite]]
+			- [[canvas]]
+		- You can activate the whiteboards feature via `...` > `Settings` > `Features` (only for those on the [**_Sponsor tier_**!](https://opencollective.com/logseq/contribute/sponsors-21163)):
+		- ![](https://blog.logseq.com/content/images/2022/10/alpha-whiteboards.png)
+		- If you missed what the whiteboards feature is about, here's an early demo:
+		- <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 657px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/Tweet.html?creatorScreenName=rroudt&amp;dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19jaGluX3BpbGxzXzE0NzQxIjp7ImJ1Y2tldCI6ImNvbG9yX2ljb25zIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2V4cGVyaW1lbnRzX2Nvb2tpZV9leHBpcmF0aW9uIjp7ImJ1Y2tldCI6MTIwOTYwMCwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1552172906146398208&amp;lang=en&amp;origin=https%3A%2F%2Fblog.logseq.com%2Fnewsletter-14-a-better-pdf-reader-sync-whiteboards-and-new-community-creations%2F&amp;sessionId=b93ab1c670aeb85658095999b6a4a4c6cc330276&amp;siteScreenName=logseq&amp;theme=light&amp;widgetsVersion=1c23387b1f70c%3A1664388199485&amp;width=550px" data-tweet-id="1552172906146398208"></iframe>
+	- ## New plugins
+		- A few useful plugins from the hand of [Yurii Piskun](https://twitter.com/yoyurec) dropped in the marketplace in the past weeks. Initially part of his (beautiful) Solarized theme, you can now use this functionality with any theme. Search for them in  `...`  >  `Plugins`  >  `Marketplace` -> `Plugins`  within Logseq.
+		- 🎨 **[Awesome UI](https://github.com/yoyurec/logseq-awesome-ui)**
+		- This plugin polishes some of Logseq's rougher edges, like the search panel, queries, and even the popular tabs plugin.
+		- 🪧 [**Sticky Headers**](https://github.com/yoyurec/logseq-sticky-headers)
+		- With this plugin, the `H1-H5` headers will "stick" to the top when the page scrolls, always showing you what section you're in.
+		- 🔗 [**Awesome Links**](https://github.com/yoyurec/logseq-awesome-links)
+		- Want to see the favicon of external links and the icon of internal links? This plugin does exactly that!'
+		- ✍️ [**Logseq Pen**](https://github.com/vipzhicheng/logseq-plugin-pen)
+		- While we're busy polishing our whiteboards feature, [Richard Yu](https://twitter.com/vipzhicheng) has already created this neat plugin that lets you annotate your notes in Logseq.
+		- ![](https://blog.logseq.com/content/images/2022/10/logseq-pen-screencast_1664738577476_0.gif)
+	- ## New themes
+		- Are you tired of the standard Logseq colors? Check out the beautiful new themes that dropped in the marketplace. Search for them in  `...`  >  `Plugins`  >  `Marketplace` -> `Themes`  within Logseq.
+			- [[be tired of]]
+				- [[tired]]
+			- [[self-checkout]]
+		- [**Atmos**](https://github.com/Mat4m0/logseq-atmos-theme)
+		- Spruce up your headings with the beautiful and minimalist Atmos theme.
+			- [[Spruce up]]
+				- [[spruce]]
+		- ![](https://blog.logseq.com/content/images/2022/10/atmos_theme_1664738958386_0.png)
+		- **[Arc](https://github.com/andyburris/logseq-arc-theme)**
+		- Another gorgeous minimalist theme is this one inspired by Arc Browser.
+			- [[gorgeous]]
+			- [[minimalist]]
+			- [[inspired by]]
+				- [[inspire]]
+		- ![](https://blog.logseq.com/content/images/2022/10/arc-theme_1664738965953_0.png)
+		- [**Flow**](https://github.com/nmartin84/logseq-flow)
+		- Choose from one of the many color palettes with the minimalist Flow theme.
+			- [[palette]]
+			- [[minimalist]]
+		- ![](https://blog.logseq.com/content/images/2022/10/flow-theme_1664738977160_0.gif)
+		- [](https://blog.logseq.com/newsletter-13-weve-been-busy-building-this-summer/)
